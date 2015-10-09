@@ -1,4 +1,4 @@
-# DNA Sequencing: Sampe Analysis with lambda_virus.fa and FASTQ file
+# DNA Sequencing Analysis: lambda_virus.fa and Human Genome FASTQ file with Python
 
 ### Genome Data
 
